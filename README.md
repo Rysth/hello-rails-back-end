@@ -25,11 +25,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 **Rails - Hello World - Backend** <a name="about-project"></a>
+# 📖 **Rails Hello World Backend** <a name="about-project"></a>
 
-**Rails - Hello World - Backend** is a simple backend application to allow frontend applications to get random messages from the APIs.
+**Rails Hello World Backend** serves as a fundamental backend application designed to enable frontend applications to retrieve random messages from its APIs. This straightforward system facilitates seamless communication between the frontend and backend, providing a foundation for more complex interactions.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+<a href="https://github.com/Rysth/hello-react-front-end">See the React Application</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -60,7 +62,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Display Random Message from the Server**
+Uncover the essential features of **Rails Hello World Backend**:
+
+- **Display Random Message from the Server**: Enable seamless retrieval and display of random messages from the server, providing dynamic content for frontend applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +115,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **John Palacios**
 
 - GitHub: [@rysthcraft](https://github.com/Rysth)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-palacios-rysthcraft)
@@ -122,7 +126,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Create a CRUD application with Message**
+- [ ] **Implement CRUD functionality for Messages**: Develop a comprehensive CRUD (Create, Read, Update, Delete) application, enabling efficient management and manipulation of message data within the system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
