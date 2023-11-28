@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://placehold.co/1500x450" />
-  <h3><b>Your Name</b></h3>
+  <img src="./app/assets/images/banner.png" />
+  <h3><b>John Palacios</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -25,17 +25,20 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ruby on Rails Template <a name="about-project"></a>
+# 📖 **Rails Hello World Backend** <a name="about-project"></a>
 
-**Ruby on Rails Template** description...
+**Rails Hello World Backend** serves as a fundamental backend application designed to enable frontend applications to retrieve random messages from its APIs. This straightforward system facilitates seamless communication between the frontend and backend, providing a foundation for more complex interactions.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+<a href="https://github.com/Rysth/hello-react-front-end">See the React Application</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
+    <li><a href="https://react.dev/">React</a></li>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://www.tailwindcss.com/">TailwindCSS</a></li>
   </ul>
@@ -59,9 +62,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Key Feature**
-- **Key Feature**
-- **Key Feature**
+Uncover the essential features of **Rails Hello World Backend**:
+
+- **Display Random Message from the Server**: Enable seamless retrieval and display of random messages from the server, providing dynamic content for frontend applications.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +115,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **John Palacios**
 
 - GitHub: [@rysthcraft](https://github.com/Rysth)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-palacios-rysthcraft)
@@ -123,8 +126,7 @@ Use this command to fix **Stylelint** Errors:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Future Feature**
-- [ ] **Future Feature**
+- [ ] **Implement CRUD functionality for Messages**: Develop a comprehensive CRUD (Create, Read, Update, Delete) application, enabling efficient management and manipulation of message data within the system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
